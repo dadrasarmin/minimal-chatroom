@@ -1,2 +1,2 @@
 # minimal-chatroom
-My first semester project - a minimal chatroom with server side and client side written in c++ and Qt
+My first project for advance programming - a minimal chatroom that has server side and client side implemented in c++ and Qt framework
